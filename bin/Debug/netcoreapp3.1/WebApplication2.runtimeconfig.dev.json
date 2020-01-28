@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Alphi-spare\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Alphi-spare\\.nuget\\packages"
+    ]
+  }
+}
